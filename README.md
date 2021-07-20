@@ -1,0 +1,2 @@
+# Vlans
+this is the network of VLANs and all VLANs are assigned to provided switchports. ports were added,moved and changed.Verification VLAN configuration was completed. The trunking on inter-switch connections was enabled.the switch used is 2960.  the EXEC mode password is "class" the passsword for console connection is "cisco" the password for vty connection is "cisco"  At the end I moved PC1 into the same VLAN as PC2 and I changed the IP address and network on PC1  to 172.17.20.22 to test if it is possible to ping  PC1 from PC2.
